@@ -58,7 +58,8 @@ It delays the return of the reward to the PPO agent, until the other agents have
 Suppose you are playing a 3-player card game such as whist. If you are the first player to play in the trick, then your action (playing a card) doesn’t immediately create any reward. You need to wait to see what the other two players play in order to know whether you won the trick or not. The self-play wrapper handles this delay, by following up the PPO agent action with all other required actions by opponents before returning any reward to the PPO agent being trained. 
 # References
 #### Self training
-https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplay er-games-using-self-play-deep-reinforcement-learning-247d0b440717\ https://youtu.be/gqX8J38tESw?t=2999
+https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717\ 
+https://youtu.be/gqX8J38tESw?t=2999
 #### PPO
 https://arxiv.org/abs/1707.06347 https://openai.com/blog/openai-baselines-ppo/ https://www.youtube.com/watch?t=14m1s&v=gqX8J38tESw&feature=youtu.be
       
