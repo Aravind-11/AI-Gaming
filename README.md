@@ -31,7 +31,10 @@ Passing the ball to the opponent is a move that our agent cannot afford to do, a
 # Model
 #### For the model, we are using Proximal Policy Optimisation: Clipping version
 The figure shows in block diagram on how we are going to use the ppo model to train the agent to play the game in the multiplayer mode
- 
+![image](https://user-images.githubusercontent.com/42345018/109605476-382a6c00-7b4b-11eb-9f23-dc3a18e46ea5.png)
+
+The figure shows in block diagram on how we are going to use the ppo model to train the agent to play the game in the multiplayer mode
+The figure shows in block diagram on how we are going to use the ppo model to train the agent to play the game in the multiplayer mode
 The blocks in the block diagram are explained below
 ### The Network Bank: 
 This store’s previous versions of the agents to pull into the environment as opponents.
