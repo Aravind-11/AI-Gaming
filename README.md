@@ -13,7 +13,7 @@ We want our agent to know who is the ball owner, and the distances from the goal
 **Action space**:
 We are using the actions which are possible in the environment as the action space for the problem, namely 0 - Stationary, 1 - move up, 2 - move right, 3 - move down, 4 - move left
 
-**Reward** :
+**Rewards** :
 We are treating them as values that need to be tuned for training our bot. We will just explain the rewarding system in detail here.
 
 **Reward** - 
