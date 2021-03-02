@@ -32,9 +32,8 @@ Passing the ball to the opponent is a move that our agent cannot afford to do, a
 #### For the model, we are using Proximal Policy Optimisation: Clipping version
 The figure shows in block diagram on how we are going to use the ppo model to train the agent to play the game in the multiplayer mode
 
-![HI](/images/logo.png)
-Format: ![HI](url)
-
+![Self Play Architecture](/shaastra2021_rl_comp/Diagram<img width="631" alt="image" src="https://user-images.githubusercontent.com/42345018/109603470-d7e5fb00-7b47-11eb-9b60-045367d68d9f.png">.png)
+ 
 The blocks in the block diagram are explained below
 ### The Network Bank: 
 This store’s previous versions of the agents to pull into the environment as opponents.
