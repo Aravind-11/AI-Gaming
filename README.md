@@ -50,7 +50,8 @@ This​ ​converts the multiplayer base environment into a 1-player environment
 
 # The Self-play Wrapper
 The self-play wrapper performs two key functions:
-Handling opponents​ - On each reset of the environment, it loads random previous versions of the network as the next opponents for the agent to play against. It takes the turns of the opponents, by sampling from their policy networks.
+#### Handling opponents:
+On each reset of the environment, it loads random previous versions of the network as the next opponents for the agent to play against. It takes the turns of the opponents, by sampling from their policy networks.
 For example, the base opponent is loaded initially as Player 1 and Player 3 and the agent plays as Player 2. Player 1’s turn is taken automatically by sampling from the policy network output before handing back to the agent.
 
 #### Delayed Rewards
