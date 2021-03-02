@@ -63,5 +63,9 @@ https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplay
 https://youtu.be/gqX8J38tESw?t=2999
 
 #### PPO
-https://arxiv.org/abs/1707.06347 https://openai.com/blog/openai-baselines-ppo/ https://www.youtube.com/watch?t=14m1s&v=gqX8J38tESw&feature=youtu.be
+https://arxiv.org/abs/1707.06347 
+
+https://openai.com/blog/openai-baselines-ppo/ 
+
+https://www.youtube.com/watch?t=14m1s&v=gqX8J38tESw&feature=youtu.be
       
