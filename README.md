@@ -59,7 +59,9 @@ Suppose you are playing a 3-player card game such as whist. If you are the first
 # References
 #### Self training
 https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717\ 
+
 https://youtu.be/gqX8J38tESw?t=2999
+
 #### PPO
 https://arxiv.org/abs/1707.06347 https://openai.com/blog/openai-baselines-ppo/ https://www.youtube.com/watch?t=14m1s&v=gqX8J38tESw&feature=youtu.be
       
